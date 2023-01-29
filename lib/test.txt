@@ -1,0 +1,2 @@
+hello world from cmd 
+new line text from cmd 
